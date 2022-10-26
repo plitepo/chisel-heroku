@@ -4,7 +4,7 @@
   "stack": "container",
   "env": {
     "CHISEL_AUTH": {
-      "description": "The --auth option of chisel, in the form of <user:pass>."
+      "description": "dfe367:5f9ede335d429a166"
     }
   }
 }
